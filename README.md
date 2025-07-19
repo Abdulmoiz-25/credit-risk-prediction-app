@@ -101,5 +101,6 @@ Try the deployed model here:
 
 ---
 
-## 🧾 Submitted as part of the Developer Hub Internship Program  
+> 🔖 Submitted as part of the **Developer Hub Internship Program**
+
 
